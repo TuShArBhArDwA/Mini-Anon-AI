@@ -1,5 +1,6 @@
 # Mini Anon Ai - A Gemini Clone
-![image](https://github.com/user-attachments/assets/mini-anon-ai-banner)
+![image](https://github.com/user-attachments/assets/4cd77508-9900-4b29-8e59-ae57918b885f)
+
 
 ## Table of Contents
 - [About the Project](#about-the-project)
